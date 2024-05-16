@@ -1,4 +1,5 @@
 # Project Demo
+![TenziesThumbnail](https://github.com/deca109/tenzies/assets/118815246/f10fcf78-d35e-40a5-b2c1-b38032a5a8b1)
 
 ![Tenzies](https://github.com/deca109/tenzies/assets/118815246/00fe8354-a80e-4f2e-afaf-d8327f4f895b)
 
