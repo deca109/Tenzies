@@ -1,3 +1,7 @@
+# Project Demo
+
+![Tenzies](https://github.com/deca109/tenzies/assets/118815246/00fe8354-a80e-4f2e-afaf-d8327f4f895b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
